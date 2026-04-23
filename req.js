@@ -28,3 +28,12 @@ module.exports = {
     get,
     getJson,
 };
+// BonfireStellar Assets Configuration
+const BonfireStellarAssets = {
+  "BFIRE-GB7U643OOUENEYK5NKFPSLX432P6PMNQITDWRMU2RVG4PXBRTHAVJOJW": {
+    code: "BFIRE",
+    issuer: "GB7U643OOUENEYK5NKFPSLX432P6PMNQITDWRMU2RVG4PXBRTHAVJOJW",
+    domain: "bonfirestellar.org",
+    name: "Bfire",
+    icon: "https://bonfirestellar.org/wp-content/uploads/2021/11/Header-banner-imagea2.png"
+  },
