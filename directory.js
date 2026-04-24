@@ -232,3 +232,18 @@ class DirectoryClass {
 }
 
 module.exports = new DirectoryClass();
+},
+"BFIRE-GB7U643OOUENEYK5NKFPSLX432P6PMNQITDWRMU2RVG4PXBRTHAVJOJW": {
+  code: "BFIRE",
+  issuer: "GB7U643OOUENEYK5NKFPSLX432P6PMNQITDWRMU2RVG4PXBRTHAVJOJW",
+  domain: "bonfirestellar.org",
+  name: "Bfire",
+  icon: "https://bonfirestellar.org/wp-content/uploads/2021/11/Header-banner-imagea2.png"
+},
+"LOGS-GDI74JMESJILV7YHADQ4GIM4DRBICUANQVZK653C4VOD6HAUEV6RACP3": {
+  code: "LOGS",
+  issuer: "GDI74JMESJILV7YHADQ4GIM4DRBICUANQVZK653C4VOD6HAUEV6RACP3",
+  domain: "bonfirestellar.org",
+  name: "LOGS",
+  icon: "https://bonfirestellar.org/wp-content/uploads/2021/11/Group-6.png"
+}
